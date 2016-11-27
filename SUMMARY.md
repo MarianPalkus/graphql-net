@@ -2,6 +2,6 @@
 
 * [Read Me](README.md)
 * [Introduction](docs/introduction/README.md)
-* Basics
+* [Basics](docs/basics/README.md)
 * [Development](docs/development/README.md)
 
