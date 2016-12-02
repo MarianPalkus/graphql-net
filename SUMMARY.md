@@ -8,5 +8,6 @@
 * [Queries and Mutations](docs/queries_and_mutations/README.md)
    * [Fields](docs/queries_and_mutations/fields.md)
    * [Arguments](docs/queries_and_mutations/arguments.md)
+   * Aliases
 * [Development](docs/development/README.md)
 
