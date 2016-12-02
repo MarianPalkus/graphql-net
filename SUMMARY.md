@@ -6,6 +6,6 @@
    * [Build a Schema](docs/basics/build_a_schema.md)
    * [Executing a Query](docs/basics/executing_a_query.md)
 * [Queries and Mutations](docs/queries_and_mutations/README.md)
-   * Fields
+   * [Fields](docs/queries_and_mutations/fields.md)
 * [Development](docs/development/README.md)
 
