@@ -9,5 +9,6 @@
    * [Fields](docs/queries_and_mutations/fields.md)
    * [Arguments](docs/queries_and_mutations/arguments.md)
    * [Aliases](docs/queries_and_mutations/aliases.md)
+   * Fragments
 * [Development](docs/development/README.md)
 
