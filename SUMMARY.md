@@ -3,6 +3,6 @@
 * [Read Me](README.md)
 * [Introduction](docs/introduction/README.md)
 * [Basics](docs/basics/README.md)
-   * Build a Schema
+   * [Build a Schema](docs/basics/build_a_schema.md)
 * [Development](docs/development/README.md)
 
